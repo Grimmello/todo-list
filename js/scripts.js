@@ -19,5 +19,7 @@ $(function() {
       $(this).hide();
       $(element).show();
     });
+    $("input#todoItem").val("");
+
   });
 });

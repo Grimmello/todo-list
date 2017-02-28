@@ -1,3 +1,19 @@
 li {
   cursor: pointer;
+  font-size: 16px;
+}
+.btn {
+  margin-bottom: 10px;
+  background-color: #444444;
+}
+body {
+  background-color: #222222;
+  color: silver;
+  text-shadow: 2px 2px 2px black;
+}
+input {
+  background-color: black;
+}
+.col-md-5 {
+  border-left: 1px silver solid;
 }
